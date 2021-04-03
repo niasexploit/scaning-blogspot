@@ -22,7 +22,7 @@ https://www.youtube.com/channel/UCskI7xL3sdS1t0kcb22NQXQ Hidayat Code
 
 Klik di sini untuk bergabung di channel telegram https://t.me/hidayatcode
 
-#Instructions
+# Instructions
 
 1. git clone https://github.com/hidayat-code/scanblog.py
 2. cd scanblog
