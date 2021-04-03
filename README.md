@@ -27,4 +27,4 @@ Klik di sini untuk bergabung di channel telegram https://t.me/hidayatcode
 1. git clone https://github.com/hidayat-code/scanblog.py
 2. cd scanblog
 3. python scanblog.py
-4. 
+
